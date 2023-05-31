@@ -1,8 +1,8 @@
 # EvasionDetect
 memory evasion and detect mechanisms
 
-> evasion alias √
-> detect alias x
+> evasion alias √       
+> detect alias x      
 
 
 * https://www.elastic.co/blog/detecting-cobalt-strike-with-memory-signatures              x
