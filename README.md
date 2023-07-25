@@ -4,6 +4,9 @@ memory evasion and detect mechanisms
 > evasion alias √       
 > detect alias x      
 
+## yara  
+> https://blog.virustotal.com/2023/07/actionable-threat-intel-iv-yara-beyond.html  
+
 
 ## detect  
 * https://www.elastic.co/blog/detecting-cobalt-strike-with-memory-signatures              x
