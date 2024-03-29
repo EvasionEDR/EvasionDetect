@@ -11,7 +11,8 @@ memory evasion and detect mechanisms
 ## detect  
 * https://www.elastic.co/blog/detecting-cobalt-strike-with-memory-signatures              x
 * https://www.elastic.co/security-labs/upping-the-ante-detecting-in-memory-threats-with-kernel-call-stacks  x
-* https://github.com/dodo-sec/Malware-Analysis/blob/main/Cobalt%20Strike/Indirect%20Syscalls.md  analysis indirect syscall x 
+* https://github.com/dodo-sec/Malware-Analysis/blob/main/Cobalt%20Strike/Indirect%20Syscalls.md  analysis indirect syscall x
+* https://www.elastic.co/security-labs/itw-windows-lpe-0days-insights-and-detection-strategies x 
 
 
 
